@@ -1,0 +1,7 @@
+agent,mean_ms
+Classifier Agent,1.15
+Sentiment Agent,0.12
+Knowledge Agent,2.47
+Escalation Agent,0.02
+Responder Agent,0.0
+WHOLE PIPELINE,3.78

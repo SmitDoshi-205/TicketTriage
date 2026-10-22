@@ -1,0 +1,21 @@
+# virtual environment and caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# large raw data (recreated by scripts/prepare_data.py)
+data/raw/
+
+# logs and old result snapshots
+results/ticket_log.csv
+results_before_tuning/
+
+# editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# secrets (this project uses none, kept as a habit)
+.env

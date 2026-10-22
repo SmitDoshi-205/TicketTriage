@@ -1,0 +1,5 @@
+system,escalation_precision,escalation_recall,escalation_f1,auto_resolve_rate,missed_escalations,false_escalations
+Full system,0.636,0.7,0.667,0.56,6,8
+Without Classifier Agent,1.0,0.6,0.75,0.76,8,0
+Without Sentiment Agent,0.6,0.6,0.6,0.6,8,8
+Without Knowledge Agent,0.636,0.7,0.667,0.56,6,8

@@ -1,0 +1,4 @@
+metric,value
+accuracy,0.62
+macro_f1,0.6173
+n_eval_tickets,50.0
