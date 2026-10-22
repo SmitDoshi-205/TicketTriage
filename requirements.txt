@@ -5,5 +5,5 @@ vaderSentiment==3.3.2
 joblib==1.6.0
 streamlit==1.66.0
 fastapi==0.161.0
-pydantic==2.10.6
+pydantic==2.12.5
 uvicorn==0.34.0
